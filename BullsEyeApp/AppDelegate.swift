@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BullsEyeApp
 //
-//  Created by Umid Negmatullayev on 1/22/19.
-//  Copyright © 2019 Umid Negmatullayev. All rights reserved.
+//  Created by Ulugbek Yusupov on 1/22/19.
+//  Copyright © 2019 Ulugbek Yusupov. All rights reserved.
 //
 
 import UIKit
