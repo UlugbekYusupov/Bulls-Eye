@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     var targetValue = 0
     var score = 0
     var round = 0
-    
+
     @IBOutlet weak var targetLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
     @IBOutlet weak var roundLabel: UILabel!
